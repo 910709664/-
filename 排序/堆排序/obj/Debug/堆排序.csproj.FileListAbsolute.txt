@@ -1,0 +1,7 @@
+D:\VSproject\排序\堆排序\bin\Debug\堆排序.exe.config
+D:\VSproject\排序\堆排序\bin\Debug\堆排序.exe
+D:\VSproject\排序\堆排序\bin\Debug\堆排序.pdb
+D:\VSproject\排序\堆排序\obj\Debug\堆排序.csprojAssemblyReference.cache
+D:\VSproject\排序\堆排序\obj\Debug\堆排序.csproj.CoreCompileInputs.cache
+D:\VSproject\排序\堆排序\obj\Debug\堆排序.exe
+D:\VSproject\排序\堆排序\obj\Debug\堆排序.pdb

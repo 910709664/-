@@ -1,0 +1,6 @@
+D:\VSproject\排序\简单选择排序\bin\Debug\简单选择排序.exe.config
+D:\VSproject\排序\简单选择排序\bin\Debug\简单选择排序.exe
+D:\VSproject\排序\简单选择排序\bin\Debug\简单选择排序.pdb
+D:\VSproject\排序\简单选择排序\obj\Debug\简单选择排序.csproj.CoreCompileInputs.cache
+D:\VSproject\排序\简单选择排序\obj\Debug\简单选择排序.exe
+D:\VSproject\排序\简单选择排序\obj\Debug\简单选择排序.pdb
